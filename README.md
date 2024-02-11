@@ -1,1 +1,2 @@
 # Supply-Chain-Management
+This project aims to address the demand-supply mismatch issue in a Fast Moving Consumer Goods (FMCG) company's instant noodles business. The higher management has identified a discrepancy between demand and supply, leading to increased inventory costs and losses. The objective is to build a predictive model using historical data to determine the optimum weight of the product to be shipped from each warehouse.
